@@ -1,0 +1,7 @@
+{
+  "python.analysis.extraPaths": [
+    "./soc_platform/backend"
+  ],
+  "python.defaultInterpreterPath": "./venv/Scripts/python.exe",
+  "python.terminal.activateEnvironment": true
+}
